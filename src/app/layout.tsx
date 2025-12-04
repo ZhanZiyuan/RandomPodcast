@@ -1,9 +1,9 @@
-import type {Metadata} from 'next';
+import type { Metadata } from 'next';
 import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'Radio Klein',
+  title: 'Random Podcast',
   description: 'Broadcasting from the void',
 };
 
